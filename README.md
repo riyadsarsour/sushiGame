@@ -1,2 +1,2 @@
 # sushiGame
-Sushi Building game
+Sushi Building game in Java. First ever MVC project made 
